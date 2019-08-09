@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidVinokhodov</string>
+    <string name="first_activity">First Activity</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="first_image_eva">first image eva</string>
+</resources>
